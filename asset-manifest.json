@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avalenfaro/avalenfaro.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/avalenfaro/avalenfaro.github.io/static/js/main.0beb3bcb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/avalenfaro/avalenfaro.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/avalenfaro/avalenfaro.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avalenfaro/avalenfaro.github.io/index.html",
+    "main.073c9b0a.css.map": "/avalenfaro/avalenfaro.github.io/static/css/main.073c9b0a.css.map",
+    "main.0beb3bcb.js.map": "/avalenfaro/avalenfaro.github.io/static/js/main.0beb3bcb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/avalenfaro/avalenfaro.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0beb3bcb.js"
+  ]
+}
